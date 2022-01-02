@@ -1,0 +1,57 @@
+C:\Users\GHJJ family\source\repos\Neighbor Otter\bin\Debug\Neighbor Otter.exe.config
+C:\Users\GHJJ family\source\repos\Neighbor Otter\bin\Debug\Neighbor Otter.exe
+C:\Users\GHJJ family\source\repos\Neighbor Otter\bin\Debug\Neighbor Otter.pdb
+C:\Users\GHJJ family\source\repos\Neighbor Otter\obj\Debug\Neighbor Otter.csproj.AssemblyReference.cache
+C:\Users\GHJJ family\source\repos\Neighbor Otter\obj\Debug\Neighbor_Otter.Form1.resources
+C:\Users\GHJJ family\source\repos\Neighbor Otter\obj\Debug\Neighbor_Otter.Properties.Resources.resources
+C:\Users\GHJJ family\source\repos\Neighbor Otter\obj\Debug\Neighbor Otter.csproj.GenerateResource.cache
+C:\Users\GHJJ family\source\repos\Neighbor Otter\obj\Debug\Neighbor Otter.csproj.CoreCompileInputs.cache
+C:\Users\GHJJ family\source\repos\Neighbor Otter\obj\Debug\Neighbor Otter.exe
+C:\Users\GHJJ family\source\repos\Neighbor Otter\obj\Debug\Neighbor Otter.pdb
+Z:\살몬프로젝트v.2\Neighbor Otter\bin\Debug\Neighbor Otter.exe.config
+Z:\살몬프로젝트v.2\Neighbor Otter\bin\Debug\Neighbor Otter.exe
+Z:\살몬프로젝트v.2\Neighbor Otter\bin\Debug\Neighbor Otter.pdb
+Z:\살몬프로젝트v.2\Neighbor Otter\obj\Debug\Neighbor Otter.csproj.AssemblyReference.cache
+Z:\살몬프로젝트v.2\Neighbor Otter\obj\Debug\Neighbor_Otter.Form1.resources
+Z:\살몬프로젝트v.2\Neighbor Otter\obj\Debug\Neighbor_Otter.Properties.Resources.resources
+Z:\살몬프로젝트v.2\Neighbor Otter\obj\Debug\Neighbor Otter.csproj.GenerateResource.cache
+Z:\살몬프로젝트v.2\Neighbor Otter\obj\Debug\Neighbor Otter.csproj.CoreCompileInputs.cache
+Z:\살몬프로젝트v.2\Neighbor Otter\obj\Debug\Neighbor Otter.exe
+Z:\살몬프로젝트v.2\Neighbor Otter\obj\Debug\Neighbor Otter.pdb
+Z:\살몬프로젝트v.2\Neighbor Otter\obj\Debug\Neighbor_Otter.dolce.resources
+Z:\살몬프로젝트v.2\Neighbor Otter\obj\Debug\Neighbor_Otter.latte.resources
+Z:\살몬프로젝트v.2\Neighbor Otter\obj\Debug\Neighbor_Otter.mocha.resources
+Z:\살몬프로젝트v.2\Neighbor Otter\obj\Debug\Neighbor_Otter.chamgo.resources
+F:\살몬프로젝트v.2\Neighbor Otter\bin\Debug\Neighbor Otter.exe.config
+F:\살몬프로젝트v.2\Neighbor Otter\bin\Debug\Neighbor Otter.exe
+F:\살몬프로젝트v.2\Neighbor Otter\bin\Debug\Neighbor Otter.pdb
+F:\살몬프로젝트v.2\Neighbor Otter\obj\Debug\Neighbor Otter.csproj.AssemblyReference.cache
+F:\살몬프로젝트v.2\Neighbor Otter\obj\Debug\Neighbor_Otter.chamgo.resources
+F:\살몬프로젝트v.2\Neighbor Otter\obj\Debug\Neighbor_Otter.dolce.resources
+F:\살몬프로젝트v.2\Neighbor Otter\obj\Debug\Neighbor_Otter.Form1.resources
+F:\살몬프로젝트v.2\Neighbor Otter\obj\Debug\Neighbor_Otter.latte.resources
+F:\살몬프로젝트v.2\Neighbor Otter\obj\Debug\Neighbor_Otter.mocha.resources
+F:\살몬프로젝트v.2\Neighbor Otter\obj\Debug\Neighbor_Otter.Properties.Resources.resources
+F:\살몬프로젝트v.2\Neighbor Otter\obj\Debug\Neighbor Otter.csproj.GenerateResource.cache
+F:\살몬프로젝트v.2\Neighbor Otter\obj\Debug\Neighbor Otter.csproj.CoreCompileInputs.cache
+F:\살몬프로젝트v.2\Neighbor Otter\obj\Debug\Neighbor Otter.exe
+F:\살몬프로젝트v.2\Neighbor Otter\obj\Debug\Neighbor Otter.pdb
+G:\살몬프로젝트v.2\Neighbor Otter\bin\Debug\Neighbor Otter.exe.config
+G:\살몬프로젝트v.2\Neighbor Otter\bin\Debug\Neighbor Otter.exe
+G:\살몬프로젝트v.2\Neighbor Otter\bin\Debug\Neighbor Otter.pdb
+G:\살몬프로젝트v.2\Neighbor Otter\obj\Debug\Neighbor Otter.csproj.AssemblyReference.cache
+G:\살몬프로젝트v.2\Neighbor Otter\obj\Debug\Neighbor_Otter.chamgo.resources
+G:\살몬프로젝트v.2\Neighbor Otter\obj\Debug\Neighbor_Otter.dolce.resources
+G:\살몬프로젝트v.2\Neighbor Otter\obj\Debug\Neighbor_Otter.Form1.resources
+G:\살몬프로젝트v.2\Neighbor Otter\obj\Debug\Neighbor_Otter.latte.resources
+G:\살몬프로젝트v.2\Neighbor Otter\obj\Debug\Neighbor_Otter.mocha.resources
+G:\살몬프로젝트v.2\Neighbor Otter\obj\Debug\Neighbor_Otter.Properties.Resources.resources
+G:\살몬프로젝트v.2\Neighbor Otter\obj\Debug\Neighbor Otter.csproj.GenerateResource.cache
+G:\살몬프로젝트v.2\Neighbor Otter\obj\Debug\Neighbor Otter.csproj.CoreCompileInputs.cache
+G:\살몬프로젝트v.2\Neighbor Otter\obj\Debug\Neighbor Otter.exe
+G:\살몬프로젝트v.2\Neighbor Otter\obj\Debug\Neighbor Otter.pdb
+F:\살몬프로젝트v.2\Neighbor Otter\bin\Debug\Neighbor Otter.exe.manifest
+F:\살몬프로젝트v.2\Neighbor Otter\bin\Debug\Neighbor Otter.application
+F:\살몬프로젝트v.2\Neighbor Otter\obj\Debug\Neighbor Otter.csproj.SuggestedBindingRedirects.cache
+F:\살몬프로젝트v.2\Neighbor Otter\obj\Debug\Neighbor Otter.exe.manifest
+F:\살몬프로젝트v.2\Neighbor Otter\obj\Debug\Neighbor Otter.application
