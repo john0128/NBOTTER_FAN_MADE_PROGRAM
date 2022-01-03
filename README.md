@@ -3,6 +3,7 @@
 위 코드를 수정하여 재배포하는것을 허용합니다.
 하지만 사진의 저작권은 모두 이웃집수달 Otter's Home에게 있습니다.
 ※주의!※
+
 위 프로그램은 esc키 입력으로 창 닫기 기능을 지원하기 위해 키 후킹을 사용하여 빡센 백신이라면 바이러스로 오진할 수 있습니다
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/79080468/147877310-63ddf86d-f922-497b-b6b4-de76b9677d2f.png">
 
