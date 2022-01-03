@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Neighbor Otter.exe" size="268728">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Neighbor Otter.exe" size="270264">
       <assemblyIdentity name="Neighbor Otter" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>2Uph31UcgU9++cpK6BedTzepAP3cRCImMbbATZJFtaY=</dsig:DigestValue>
+        <dsig:DigestValue>wMAyWjSSgeJkH1o0Chwec+P5xoF+zkwzhp4QRaVKT1s=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

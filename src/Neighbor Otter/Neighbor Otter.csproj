@@ -107,6 +107,12 @@
     <Compile Include="mocha.Designer.cs">
       <DependentUpon>mocha.cs</DependentUpon>
     </Compile>
+    <Compile Include="NBOTTER.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NBOTTER.Designer.cs">
+      <DependentUpon>NBOTTER.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="chamgo.resx">
@@ -123,6 +129,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="mocha.resx">
       <DependentUpon>mocha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NBOTTER.resx">
+      <DependentUpon>NBOTTER.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
